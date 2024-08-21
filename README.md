@@ -23,7 +23,7 @@ To get a working local copy, follow these simple steps.
 
 ### Requirements
 
-- Visual Studio version 2022+ or Visual Studio Code
+- Visual Studio Code
 - Windows 10+ or ​​Linux/MacOS with python installed
 
 ### Installation

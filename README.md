@@ -14,7 +14,6 @@ This project was built with pyhton, gpt API and crewai API. It analyzes the desi
 
 ![badge-python]
 ![badge-openai-api]
-![badge-crewai]
 ![badge-windows]
 
 ## Getting Started
@@ -41,10 +40,9 @@ To get a working local copy, follow these simple steps.
 
 
 <!-- Images -->
-[hero-image]: /images/aiagent.png
+[hero-image]: /images/aiagent.jpeg
 
 <!-- Badges -->
 [badge-openai-api]: https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge
 [badge-windows]: https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge
-[badge-crewai]: https://img.shields.io/badge/crewai?style=for-the-badge&logoColor=white&color=black](https://img.shields.io/badge/crewai?style=for-the-badge&logo=crewai&logoColor=white&color=black
 [badge-python]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge

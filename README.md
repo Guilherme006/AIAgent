@@ -15,6 +15,7 @@ This project was built with pyhton, gpt API and crewai API. It analyzes the desi
 ![badge-python]
 ![badge-openai-api]
 ![badge-windows]
+![badge-streamlit]
 
 ## Getting Started
 
@@ -46,3 +47,4 @@ To get a working local copy, follow these simple steps.
 [badge-openai-api]: https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge
 [badge-windows]: https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge
 [badge-python]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge
+[badge-streamlit]: https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=for-the-badge

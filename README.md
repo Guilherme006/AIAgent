@@ -46,5 +46,5 @@ To get a working local copy, follow these simple steps.
 <!-- Badges -->
 [badge-openai-api]: https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge
 [badge-windows]: https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge
-[badge-crewai]: https://img.shields.io/badge/crewai?style=for-the-badge&logoColor=white&color=black
+[badge-crewai]: https://img.shields.io/badge/crewai?style=for-the-badge&logoColor=white&color=black](https://img.shields.io/badge/crewai?style=for-the-badge&logo=crewai&logoColor=white&color=black
 [badge-python]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge

@@ -30,7 +30,7 @@ To get a working local copy, follow these simple steps.
 1. Clone the repository:
 
     ```sh
-    [git clone https://github.com/Guilherme006/cashflow.git](https://github.com/Guilherme006/AIAgent)
+    git clone https://github.com/Guilherme006/AIAgent.git
     ```
     
 2. Install dependencies from the requirements.txt file

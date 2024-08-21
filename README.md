@@ -2,7 +2,7 @@
 
 This project was built with pyhton, gpt API and crewai API. It analyzes the desired stock market within the period from 08/08/2023 to 08/08/2024, returning an introduction, an analysis and a conclusion about the stock market.
 
-![aiagent.png]
+![aiagent.jpeg]
 
 ### Features
 

@@ -1,14 +1,15 @@
 ## About the Project
 
-This project was built with pyhton, gpt API and crewai API. It analyzes the desired stock market within the period from 08/08/2023 to 08/08/2024, returning an introduction, an analysis and a conclusion about the stock market.
+This project automates the analysis of stock prices and market news using artificial intelligence agents. It combines tools like **Yahoo Finance**, **DuckDuckGo**, and language models from **OpenAI** and **CrewAI** to create detailed reports on stock price trends and market sentiment.
 
 ![aiagent-image]
 
 ### Features
 
-- **GPT API:** Creation of responses and content based on textual prompts. Adjustment of outputs according to the context or specific needs.
-- **CREWAI API:** Processing and interpretation of large volumes of data to extract insights about the researched stock market. Easy connection to existing systems to optimize operations.
-- **Streamlit:** Generation of simple and functional web interfaces from Python scripts.
+- **Yahoo Finance Tool:** Retrieves historical stock price data from up to a year ago.
+- **Stock Price Analyst Agent:** Analyzes stock price trends and predicts whether the price is rising, falling or sideways.
+- **News Analyst Agent:** Conducts stock-related news research and assesses market sentiment, assigning a "Fear/Greed" score from 0 to 100.
+- **Stock Analyst Writer Agent:** Generates a three-paragraph newsletter that summarizes price analysis and news, including an executive summary and future trend forecasts.
 
 ### Built with
 

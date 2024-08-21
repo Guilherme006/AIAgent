@@ -2,7 +2,7 @@
 
 This project was built with pyhton, gpt API and crewai API. It analyzes the desired stock market within the period from 08/08/2023 to 08/08/2024, returning an introduction, an analysis and a conclusion about the stock market.
 
-![aiagent.jpeg]
+![aiagent-image]
 
 ### Features
 
@@ -40,7 +40,7 @@ To get a working local copy, follow these simple steps.
 
 
 <!-- Images -->
-[hero-image]: /images/aiagent.jpeg
+[aiagent-image]: /images/aiagent.jpeg
 
 <!-- Badges -->
 [badge-openai-api]: https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge
